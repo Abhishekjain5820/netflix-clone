@@ -1,0 +1,58 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+  .showbtn {
+    background-color: #e4360a; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  .movie-card {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    }
+    
+    .movie-card img {
+    max-width: 150px;
+    margin-right: 10px;
+    }
+    
+    .movie-details {
+    display: flex;
+    flex-direction: column;
+    }
+    
+    .movie-title {
+    margin: 0;
+    font-size: 24px;
+    }
+    
+    .movie-release-year {
+    margin: 5px 0;
+    font-size: 18px;
+    }
+    
+    .movie-description {
+    margin: 5px 0 0 0;
+    font-size: 16px;
+    }
+    
+  

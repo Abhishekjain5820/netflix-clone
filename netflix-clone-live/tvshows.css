@@ -1,0 +1,57 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+  
+  .showbtn {
+    background-color: #e4360a; /* Green */
+    border: none;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+/*
+  #tv-shows {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .tv-shows {
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+    border-radius: 3px;
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+    height: 400px;
+  }
+  
+  .tv-shows {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .tv-shows h2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .tv-shows p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 0;
+  }
+  */
+  
